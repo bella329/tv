@@ -1,0 +1,1309 @@
+#EXTM3U
+
+未分类,#genre#
+#EXTINF:-1 group-title="未分类",CCTV1港澳版
+http://cdn6.163189.xyz/163189/cctv1
+#EXTINF:-1 group-title="未分类",广东体育
+http://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 group-title="未分类",澳门体育
+http://cdn6.163189.xyz/163189/amty
+
+极速NOW,#genre#
+#EXTINF:-1 group-title="极速NOW",NOW体育1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+#EXTINF:-1 group-title="极速NOW",NOW体育3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+#EXTINF:-1 group-title="极速NOW",NOW体育6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+#EXTINF:-1 group-title="极速NOW",NOW体育7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+#EXTINF:-1 group-title="极速NOW",NOW体育4K1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
+#EXTINF:-1 group-title="极速NOW",NOW体育
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+#EXTINF:-1 group-title="极速NOW",HUB SPORTS
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451817
+#EXTINF:-1 group-title="极速NOW",HUB SPORTS 1
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280827
+#EXTINF:-1 group-title="极速NOW",HUB SPORTS 2
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280828
+#EXTINF:-1 group-title="极速NOW",HUB SPORTS 3
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280829
+#EXTINF:-1 group-title="极速NOW",SKY SPORTS CRICKET
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236223
+#EXTINF:-1 group-title="极速NOW",英国TNT体育1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
+#EXTINF:-1 group-title="极速NOW",英国TNT体育2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
+#EXTINF:-1 group-title="极速NOW",英国TNT体育3
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
+#EXTINF:-1 group-title="极速NOW",英国TNT体育4
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
+#EXTINF:-1 group-title="极速NOW",英国TNT体育4K
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
+#EXTINF:-1 group-title="极速NOW",英国PREMIER SPORTS 1
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/303258.m3u8
+#EXTINF:-1 group-title="极速NOW",英国PREMIER SPORTS 1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
+#EXTINF:-1 group-title="极速NOW",英国PREMIER SPORTS 2
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/303257.m3u8
+#EXTINF:-1 group-title="极速NOW",英国PREMIER SPORTS 2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
+#EXTINF:-1 group-title="极速NOW",美国beIN体育
+http://23.237.104.106:8080/USA_BEIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="极速NOW",TntSports1
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 group-title="极速NOW",JSPORTS1
+http://iptv.4666888.xyz/iptv2A.php?id=6
+
+四季台湾2,#genre#
+#EXTINF:-1 group-title="四季台湾2",FOX PREMIUM HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23054
+#EXTINF:-1 group-title="四季台湾2",FOX SPORTS 3 HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23055
+#EXTINF:-1 group-title="四季台湾2",FOX SPORTS 2 HD ARGENTINA
+http://108.181.20.255:27347/livehttpplay?channel_id=23508
+#EXTINF:-1 group-title="四季台湾2",FOXSPORTS 3 HD ARGENTINA
+http://108.181.20.255:27347/livehttpplay?channel_id=23516
+#EXTINF:-1 group-title="四季台湾2",DIRECTV SPORTS COLOMBIA HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23537
+#EXTINF:-1 group-title="四季台湾2",DIRECTV SPORTS2 HD COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23538
+#EXTINF:-1 group-title="四季台湾2",DIRECTV SPORTS+ HD COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23539
+#EXTINF:-1 group-title="四季台湾2",DIRECTV SPORTS FIGHT HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23540
+#EXTINF:-1 group-title="四季台湾2",WIN SPORTS PREMIUM  COL
+http://108.181.20.255:27347/livehttpplay?channel_id=23542
+#EXTINF:-1 group-title="四季台湾2",PX SPORTS HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23543
+#EXTINF:-1 group-title="四季台湾2",WinSports HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23548
+#EXTINF:-1 group-title="四季台湾2",Tigo sports costa rica
+http://108.181.20.255:27347/livehttpplay?channel_id=23549
+#EXTINF:-1 group-title="四季台湾2",TNT SPORTS CHILE HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23558
+#EXTINF:-1 group-title="四季台湾2",FOX SPORTS CHILE HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23559
+#EXTINF:-1 group-title="四季台湾2",KTTV-TV FOX 11 (Los Angeles CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2550.ts
+#EXTINF:-1 group-title="四季台湾2",KSWB-TV FOX 5/69 (San Diego CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2534.ts
+#EXTINF:-1 group-title="四季台湾2",KDFX-CA FOX 11/33 (Palm Springs CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/696419.ts
+#EXTINF:-1 group-title="四季台湾2",KTVU-TV FOX 2 (San Francisco CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2533.ts
+#EXTINF:-1 group-title="四季台湾2",KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89459.ts
+#EXTINF:-1 group-title="四季台湾2",KTXL-TV FOX 40 (Sacramento CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2537.ts
+#EXTINF:-1 group-title="四季台湾2",KMPH-TV FOX 26 (Fresno CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/434317.ts
+#EXTINF:-1 group-title="四季台湾2",KBFX-CD FOX 58 (Bakerfield CA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/512982.ts
+#EXTINF:-1 group-title="四季台湾2",WNYW-TV FOX 5 (New York NY)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2544.ts
+#EXTINF:-1 group-title="四季台湾2",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597173.ts
+#EXTINF:-1 group-title="四季台湾2",WFLD-TV FOX 32 (Chicago IL)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2567.ts
+#EXTINF:-1 group-title="四季台湾2",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/92927.ts
+#EXTINF:-1 group-title="四季台湾2",WJBK-TV FOX 2 (Detroit MI)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2558.ts
+#EXTINF:-1 group-title="四季台湾2",WTXF-TV FOX 29 (Philadelphia PA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2540.ts
+#EXTINF:-1 group-title="四季台湾2",WFXT-CD FOX 25 (Boston MA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2570.ts
+#EXTINF:-1 group-title="四季台湾2",WPGH-CD FOX 53 (Pittsburgh PA)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2538.ts
+#EXTINF:-1 group-title="四季台湾2",WFXP-CD TV FOX 66 (Hartford CT)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/510268.ts
+#EXTINF:-1 group-title="四季台湾2",WTIC-CD TV FOX 61 (Hartford CT)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2556.ts
+#EXTINF:-1 group-title="四季台湾2",WSVN-TV FOX 7 (Miami FL)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3641.ts
+#EXTINF:-1 group-title="四季台湾2",WTVT-TV FOX 13 (Tampa Bay FL)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2504.ts
+
+英国UK(挂梯子),#genre#
+#EXTINF:-1 group-title="英国UK(挂梯子)",Sky Sports Golf
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693878
+#EXTINF:-1 group-title="英国UK(挂梯子)",TNT SPORT 2
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138146
+
+日本JP(挂梯子),#genre#
+#EXTINF:-1 group-title="日本JP(挂梯子)",JSport1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=
+#EXTINF:-1 group-title="日本JP(挂梯子)",JSport2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=
+#EXTINF:-1 group-title="日本JP(挂梯子)",JSport3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=
+#EXTINF:-1 group-title="日本JP(挂梯子)",JSport4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=
+#EXTINF:-1 group-title="日本JP(挂梯子)",GAORASPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=
+
+韩国KR,#genre#
+#EXTINF:-1 group-title="韩国KR",CCTV4
+http://cfss.cc/cdn/dy/CCTV4...flv
+#EXTINF:-1 group-title="韩国KR",CCTV远方的家
+http://cfss.cc/cdn/dy/44931143492.flv
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://119.123.78.81:8086/hls/42/index.m3u8
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://119.123.78.83:8086/hls/42/index.m3u8
+#EXTINF:-1 group-title="韩国KR",广东体育2
+http://m.061899.xyz/mg/gdty
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://go.bkpcp.top/mg/gdty
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://pr.19760929.xyz:9688/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://iptv.xxika.net:8188/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://www.yahao.host:4022/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://www.3344.uk:8888/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://vp.maomizi.cc:9530/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://www.maomizi.cn:9527/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://61.145.188.90:50055/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-1 综合
+http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-2 财经
+http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-3 综艺
+http://111.221.137.234:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-4 中文国际
+http://111.221.137.234:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-5 体育
+http://111.221.137.234:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-6 电影
+http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-7 国防军事
+http://111.221.137.234:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-8 电视剧
+http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-9 纪录
+http://111.221.137.234:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-10 科教
+http://111.221.137.234:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-11 戏曲
+http://111.221.137.234:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-12 社会与法
+http://111.221.137.234:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-13 新闻
+http://111.221.137.234:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-14 少儿
+http://111.221.137.234:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-15 音乐
+http://111.221.137.234:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-5+ 体育赛事
+http://111.221.137.234:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-1
+http://go.bkpcp.top/mg/cctv1
+#EXTINF:-1 group-title="韩国KR",CCTV-2
+http://go.bkpcp.top/mg/cctv2
+#EXTINF:-1 group-title="韩国KR",CCTV-3
+http://go.bkpcp.top/mg/cctv3
+#EXTINF:-1 group-title="韩国KR",CCTV-4
+http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 group-title="韩国KR",CCTV-5
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 group-title="韩国KR",CCTV-5+
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 group-title="韩国KR",CCTV-6
+http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 group-title="韩国KR",CCTV-7
+http://go.bkpcp.top/mg/cctv7
+#EXTINF:-1 group-title="韩国KR",CCTV-8
+http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 group-title="韩国KR",CCTV-9
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 group-title="韩国KR",CCTV-10
+http://go.bkpcp.top/mg/cctv10
+#EXTINF:-1 group-title="韩国KR",CCTV-11
+http://go.bkpcp.top/mg/cctv11
+#EXTINF:-1 group-title="韩国KR",CCTV-12
+http://go.bkpcp.top/mg/cctv12
+#EXTINF:-1 group-title="韩国KR",CCTV-13
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 group-title="韩国KR",CCTV-14
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1 group-title="韩国KR",CCTV-15
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 group-title="韩国KR",CCTV-17
+http://go.bkpcp.top/mg/cctv17
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://m.061899.xyz/mg/gdty
+#EXTINF:-1 group-title="韩国KR",CCTV-01
+http://m.061899.xyz/mg/cctv1
+#EXTINF:-1 group-title="韩国KR",CCTV-02
+http://m.061899.xyz/mg/cctv2
+#EXTINF:-1 group-title="韩国KR",CCTV-03
+http://m.061899.xyz/mg/cctv3
+#EXTINF:-1 group-title="韩国KR",CCTV-04
+http://m.061899.xyz/mg/cctv4
+#EXTINF:-1 group-title="韩国KR",CCTV-05
+http://m.061899.xyz/mg/cctv5
+#EXTINF:-1 group-title="韩国KR",CCTV-5+
+http://m.061899.xyz/mg/cctv5p
+#EXTINF:-1 group-title="韩国KR",CCTV-06
+http://m.061899.xyz/mg/cctv6
+#EXTINF:-1 group-title="韩国KR",CCTV-07
+http://m.061899.xyz/mg/cctv7
+#EXTINF:-1 group-title="韩国KR",CCTV-08
+http://m.061899.xyz/mg/cctv8
+#EXTINF:-1 group-title="韩国KR",CCTV-09
+http://m.061899.xyz/mg/cctv9
+#EXTINF:-1 group-title="韩国KR",CCTV-10
+http://m.061899.xyz/mg/cctv10
+#EXTINF:-1 group-title="韩国KR",CCTV-11
+http://m.061899.xyz/mg/cctv11
+#EXTINF:-1 group-title="韩国KR",CCTV-12
+http://m.061899.xyz/mg/cctv12
+#EXTINF:-1 group-title="韩国KR",CCTV-13
+http://m.061899.xyz/mg/cctv13
+#EXTINF:-1 group-title="韩国KR",CCTV-14
+http://m.061899.xyz/mg/cctv14
+#EXTINF:-1 group-title="韩国KR",CCTV-15
+http://m.061899.xyz/mg/cctv15
+#EXTINF:-1 group-title="韩国KR",CCTV-16
+http://m.061899.xyz/mg/cctv16
+#EXTINF:-1 group-title="韩国KR",CCTV-17
+http://m.061899.xyz/mg/cctv17
+#EXTINF:-1 group-title="韩国KR",cctv美洲
+http://m.061899.xyz/mg/cctv4m
+#EXTINF:-1 group-title="韩国KR",cctv欧洲
+http://m.061899.xyz/mg/cctv4o
+#EXTINF:-1 group-title="韩国KR",劲爆体育
+http://m.061899.xyz/mg/jbty
+#EXTINF:-1 group-title="韩国KR",咪咕体育
+http://m.061899.xyz/mg/mgty
+#EXTINF:-1 group-title="韩国KR",北京体育
+http://m.061899.xyz/mg/bjty
+#EXTINF:-1 group-title="韩国KR",CCTV-1综合
+http://k.061899.xyz/k.php?id=cctv1
+#EXTINF:-1 group-title="韩国KR",CCTV-2财经
+http://k.061899.xyz/k.php?id=cctv2
+#EXTINF:-1 group-title="韩国KR",CCTV-3综艺
+http://k.061899.xyz/k.php?id=cctv3
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+http://k.061899.xyz/k.php?id=cctv4
+#EXTINF:-1 group-title="韩国KR",CCTV-4美洲
+http://k.061899.xyz/k.php?id=cctv4m
+#EXTINF:-1 group-title="韩国KR",CCTV-4欧洲
+http://k.061899.xyz/k.php?id=cctv4o
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+http://k.061899.xyz/k.php?id=cctv5
+#EXTINF:-1 group-title="韩国KR",CCTV-5+体育赛事
+http://k.061899.xyz/k.php?id=cctv5p
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+http://k.061899.xyz/k.php?id=cctv6
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+http://k.061899.xyz/k.php?id=cctv7
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+http://k.061899.xyz/k.php?id=cctv8
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+http://k.061899.xyz/k.php?id=cctv9
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+http://k.061899.xyz/k.php?id=cctv10
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+http://k.061899.xyz/k.php?id=cctv11
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+http://k.061899.xyz/k.php?id=cctv12
+#EXTINF:-1 group-title="韩国KR",CCTV-1综合
+http://j.s.bkpcp.top/jj/cctv1
+#EXTINF:-1 group-title="韩国KR",CCTV-2财经
+http://j.s.bkpcp.top/jj/cctv2
+#EXTINF:-1 group-title="韩国KR",CCTV-3综艺
+http://j.s.bkpcp.top/jj/cctv3
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+http://j.s.bkpcp.top/jj/cctv4
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+http://j.s.bkpcp.top/jj/cctv5
+#EXTINF:-1 group-title="韩国KR",CCTV-5+体育赛事
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+http://j.s.bkpcp.top/jj/cctv6
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+http://j.s.bkpcp.top/jj/cctv7
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+http://j.s.bkpcp.top/jj/cctv8
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+http://j.s.bkpcp.top/jj/cctv9
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+http://j.s.bkpcp.top/jj/cctv12
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+http://j.s.bkpcp.top/jj/cctv13
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+http://j.s.bkpcp.top/jj/cctv15
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥运
+http://j.s.bkpcp.top/jj/cctv16
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+http://j.s.bkpcp.top/jj/cctv17
+#EXTINF:-1 group-title="韩国KR",CCTV-01
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+#EXTINF:-1 group-title="韩国KR",CCTV-02
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+#EXTINF:-1 group-title="韩国KR",CCTV-03
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+#EXTINF:-1 group-title="韩国KR",CCTV-04
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+#EXTINF:-1 group-title="韩国KR",CCTV-05
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 group-title="韩国KR",CCTV-5+
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+#EXTINF:-1 group-title="韩国KR",CCTV-06
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+#EXTINF:-1 group-title="韩国KR",CCTV-07
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+#EXTINF:-1 group-title="韩国KR",CCTV-08
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+#EXTINF:-1 group-title="韩国KR",CCTV-09
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+#EXTINF:-1 group-title="韩国KR",CCTV-10
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+#EXTINF:-1 group-title="韩国KR",CCTV-11
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+#EXTINF:-1 group-title="韩国KR",CCTV-12
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+#EXTINF:-1 group-title="韩国KR",CCTV-13
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+#EXTINF:-1 group-title="韩国KR",CCTV-14
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+#EXTINF:-1 group-title="韩国KR",CCTV-15
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+#EXTINF:-1 group-title="韩国KR",CCTV-16
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+#EXTINF:-1 group-title="韩国KR",CCTV-17
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-2HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-4HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-5HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-5+HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-6HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-7HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-8HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-9HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-10HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-11HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-12HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-13HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-14HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-15HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-16HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-17HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-8K超高清
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV-央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",五星体育HD
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",天津体育
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV1
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV2
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV4
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV6
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV7
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",CCTV13
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="韩国KR",cctv1hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv2hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv3hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv4hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv5hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv6hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv7hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv8hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv9hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv10hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv11hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv12hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv13hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv14hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv15hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv16hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv17hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",cctv5p
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000484.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000488.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000489.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000201.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2HD
+http://120.76.248.139/live/bfgd/4200000061.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3HD
+http://120.76.248.139/live/bfgd/4200000062.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4HD
+http://120.76.248.139/live/bfgd/4200000063.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5HD
+http://120.76.248.139/live/bfgd/4200000064.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6HD
+http://120.76.248.139/live/bfgd/4200000065.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7HD
+http://120.76.248.139/live/bfgd/4200000127.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8HD
+http://120.76.248.139/live/bfgd/4200000066.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9HD
+http://120.76.248.139/live/bfgd/4200000128.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10HD
+http://120.76.248.139/live/bfgd/4200000129.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11HD
+http://120.76.248.139/live/bfgd/4200000130.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12HD
+http://120.76.248.139/live/bfgd/4200000131.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13HD
+http://120.76.248.139/live/bfgd/4200000067.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14HD
+http://120.76.248.139/live/bfgd/4200000132.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15HD
+http://120.76.248.139/live/bfgd/4200000133.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17HD
+http://120.76.248.139/live/bfgd/4200000204.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+HD
+http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://107.150.60.122/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2HD
+http://107.150.60.122/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3HD
+http://107.150.60.122/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4HD
+http://107.150.60.122/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5HD
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6HD
+http://107.150.60.122/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7HD
+http://107.150.60.122/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8HD
+http://107.150.60.122/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9HD
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10HD
+http://107.150.60.122/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11HD
+http://107.150.60.122/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12HD
+http://107.150.60.122/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13HD
+http://107.150.60.122/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14HD
+http://107.150.60.122/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15HD
+http://107.150.60.122/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16HD
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17HD
+http://107.150.60.122/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+HD
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+http://107.150.60.122/live/cctv4k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8K超高清
+http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-电视指南
+http://107.150.60.122/live/dszn.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-第一剧场
+http://107.150.60.122/live/dyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云剧场
+http://107.150.60.122/live/fyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云音乐
+http://107.150.60.122/live/fyyy.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云足球
+http://107.150.60.122/live/fyzq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-高尔夫网球
+http://107.150.60.122/live/gefwq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-兵器科技
+http://107.150.60.122/live/gfjs.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-女性时尚
+http://107.150.60.122/live/nxss.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-世界地理
+http://107.150.60.122/live/sjdl.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-怀旧剧场
+http://107.150.60.122/live/hjjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视台球
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视文化精品
+http://107.150.60.122/live/ysjp.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-卫生健康
+http://107.150.60.122/live/wsjk.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://192.151.150.154/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2HD
+http://192.151.150.154/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3HD
+http://192.151.150.154/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4HD
+http://192.151.150.154/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6HD
+http://192.151.150.154/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7HD
+http://192.151.150.154/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8HD
+http://192.151.150.154/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9HD
+http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10HD
+http://192.151.150.154/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11HD
+http://192.151.150.154/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12HD
+http://192.151.150.154/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13HD
+http://192.151.150.154/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14HD
+http://192.151.150.154/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15HD
+http://192.151.150.154/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17HD
+http://192.151.150.154/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+http://192.151.150.154/live/cctv4k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8K超高清
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-电视指南
+http://192.151.150.154/live/dszn.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-第一剧场
+http://192.151.150.154/live/dyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云剧场
+http://192.151.150.154/live/fyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云音乐
+http://192.151.150.154/live/fyyy.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云足球
+http://192.151.150.154/live/fyzq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-高尔夫网球
+http://192.151.150.154/live/gefwq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-兵器科技
+http://192.151.150.154/live/gfjs.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-女性时尚
+http://192.151.150.154/live/nxss.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-世界地理
+http://192.151.150.154/live/sjdl.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-怀旧剧场
+http://192.151.150.154/live/hjjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视台球
+http://192.151.150.154/live/ystq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视文化精品
+http://192.151.150.154/live/ysjp.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-卫生健康
+http://192.151.150.154/live/wsjk.m3u8
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://192.151.150.154/live/gdty.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1HD
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2HD
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3HD
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4HD
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5HD
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6HD
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7HD
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8HD
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9HD
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10HD
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11HD
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12HD
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13HD
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14HD
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15HD
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16HD
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17HD
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+HD
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+http://198.204.228.26/live/cctv4k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8K超高清
+http://198.204.228.26/live/cctv8k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-电视指南
+http://198.204.228.26/live/dszn.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-第一剧场
+http://198.204.228.26/live/dyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云剧场
+http://198.204.228.26/live/fyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云音乐
+http://198.204.228.26/live/fyyy.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云足球
+http://198.204.228.26/live/fyzq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-高尔夫网球
+http://198.204.228.26/live/gefwq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-兵器科技
+http://198.204.228.26/live/gfjs.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-女性时尚
+http://198.204.228.26/live/nxss.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-世界地理
+http://198.204.228.26/live/sjdl.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-怀旧剧场
+http://198.204.228.26/live/hjjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视台球
+http://198.204.228.26/live/ystq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视文化精品
+http://198.204.228.26/live/ysjp.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-卫生健康
+http://198.204.228.26/live/wsjk.m3u8
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://198.204.228.26/live/gdty.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2
+http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3
+http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4
+http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5
+http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6
+http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7
+http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8
+http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9
+http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10
+http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11
+http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12
+http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13
+http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14
+http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15
+http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16
+http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17
+http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+
+http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-第一剧场
+http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云剧场
+http://bztv.tvbus.cc:8081/cdnlive/fyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云音乐
+http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云足球
+http://bztv.tvbus.cc:8081/cdnlive/fyzq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-高尔夫网球
+http://bztv.tvbus.cc:8081/cdnlive/gefwq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-兵器科技
+http://bztv.tvbus.cc:8081/cdnlive/gfjs.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-女性时尚
+http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-世界地理
+http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-怀旧剧场
+http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视台球
+http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视文化精品
+http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-卫生健康
+http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1
+http://129.211.14.102:25000/cctv1.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2
+http://129.211.14.102:25000/cctv2.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3
+http://129.211.14.102:25000/cctv3.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4
+http://129.211.14.102:25000/cctv4.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5
+http://129.211.14.102:25000/cctv5.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+
+http://129.211.14.102:25000/cctv5plus.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6
+http://129.211.14.102:25000/cctv6.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7
+http://129.211.14.102:25000/cctv7.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8
+http://129.211.14.102:25000/cctv8.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9
+http://129.211.14.102:25000/cctv9.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10
+http://129.211.14.102:25000/cctv10.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11
+http://129.211.14.102:25000/cctv11.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12
+http://129.211.14.102:25000/cctv12.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13
+http://129.211.14.102:25000/cctv13.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14
+http://129.211.14.102:25000/cctv14.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15
+http://129.211.14.102:25000/cctv15.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16
+http://129.211.14.102:25000/cctv16.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17
+http://129.211.14.102:25000/cctv17.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1
+http://129.211.14.102:24445/cctv1.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2
+http://129.211.14.102:24445/cctv2.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3
+http://129.211.14.102:24445/cctv3.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4
+http://129.211.14.102:24445/cctv4.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5
+http://129.211.14.102:24445/cctv5.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+
+http://129.211.14.102:24445/cctv5plus.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6
+http://129.211.14.102:24445/cctv6.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7
+http://129.211.14.102:24445/cctv7.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8
+http://129.211.14.102:24445/cctv8.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9
+http://129.211.14.102:24445/cctv9.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10
+http://129.211.14.102:24445/cctv10.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11
+http://129.211.14.102:24445/cctv11.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12
+http://129.211.14.102:24445/cctv12.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13
+http://129.211.14.102:24445/cctv13.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14
+http://129.211.14.102:24445/cctv14.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15
+http://129.211.14.102:24445/cctv15.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16
+http://129.211.14.102:24445/cctv16.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17
+http://129.211.14.102:24445/cctv17.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1
+http://129.211.14.102:22225/cctv1.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2
+http://129.211.14.102:22225/cctv2.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3
+http://129.211.14.102:22225/cctv3.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4
+http://129.211.14.102:22225/cctv4.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5
+http://129.211.14.102:22225/cctv5.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+
+http://129.211.14.102:22225/cctv5plus.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6
+http://129.211.14.102:22225/cctv6.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7
+http://129.211.14.102:22225/cctv7.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8
+http://129.211.14.102:22225/cctv8.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9
+http://129.211.14.102:22225/cctv9.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10
+http://129.211.14.102:22225/cctv10.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11
+http://129.211.14.102:22225/cctv11.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12
+http://129.211.14.102:22225/cctv12.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13
+http://129.211.14.102:22225/cctv13.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14
+http://129.211.14.102:22225/cctv14.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15
+http://129.211.14.102:22225/cctv15.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16
+http://129.211.14.102:22225/cctv16.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17
+http://129.211.14.102:22225/cctv17.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1综合
+http://sagrad.org:8181/3m1080p/cctv1.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2财经
+http://sagrad.org:8181/3m1080p/cctv2.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3综艺
+http://sagrad.org:8181/3m1080p/cctv3.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+http://sagrad.org:8181/3m1080p/cctv4.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+http://sagrad.org:8181/3m1080p/cctv5.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+http://sagrad.org:8181/3m1080p/cctv6.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+http://sagrad.org:8181/3m1080p/cctv7.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+http://sagrad.org:8181/3m1080p/cctv8.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+http://sagrad.org:8181/3m1080p/cctv9.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+http://sagrad.org:8181/3m1080p/cctv10.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+http://sagrad.org:8181/3m1080p/cctv11.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+http://sagrad.org:8181/3m1080p/cctv12.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+http://sagrad.org:8181/3m1080p/cctv13.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+http://sagrad.org:8181/3m1080p/cctv14.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+http://sagrad.org:8181/3m1080p/cctv15.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克
+http://sagrad.org:8181/3m1080p/cctv16.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+http://sagrad.org:8181/3m1080p/cctv17.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1综合
+http://173.208.212.130:8181/720p/cctv1.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2财经
+http://173.208.212.130:8181/720p/cctv2.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3综艺
+http://173.208.212.130:8181/720p/cctv3.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+http://173.208.212.130:8181/720p/cctv4.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+http://173.208.212.130:8181/720p/cctv5.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+http://173.208.212.130:8181/720p/cctv6.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+http://173.208.212.130:8181/720p/cctv7.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+http://173.208.212.130:8181/720p/cctv8.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+http://173.208.212.130:8181/720p/cctv9.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+http://173.208.212.130:8181/720p/cctv10.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+http://173.208.212.130:8181/720p/cctv11.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+http://173.208.212.130:8181/720p/cctv12.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+http://173.208.212.130:8181/720p/cctv13.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+http://173.208.212.130:8181/720p/cctv14.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+http://173.208.212.130:8181/720p/cctv15.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克
+http://173.208.212.130:8181/720p/cctv16.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+http://173.208.212.130:8181/720p/cctv17.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+HD
+http://173.208.212.130:8181/720p/cctv5p.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+http://173.208.212.130:8181/720p/cctv4k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8K超高清
+http://173.208.212.130:8181/720p/cctv8k.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-第一剧场
+http://173.208.212.130:8181/720p/dyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云剧场
+http://173.208.212.130:8181/720p/fyjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-怀旧剧场
+http://173.208.212.130:8181/720p/hjjc.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云音乐
+http://173.208.212.130:8181/720p/fyyy.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-央视台球
+http://173.208.212.130:8181/720p/ystq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-风云足球
+http://173.208.212.130:8181/720p/fyzq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-高尔夫网球
+http://173.208.212.130:8181/720p/gefwq.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-1综合
+http://173.208.212.130:8181/1080p/cctv1.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-2财经
+http://173.208.212.130:8181/1080p/cctv2.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-3综艺
+http://173.208.212.130:8181/1080p/cctv3.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+http://173.208.212.130:8181/1080p/cctv4.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+http://173.208.212.130:8181/1080p/cctv5.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+http://173.208.212.130:8181/1080p/cctv6.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+http://173.208.212.130:8181/1080p/cctv7.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+http://173.208.212.130:8181/1080p/cctv8.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+http://173.208.212.130:8181/1080p/cctv9.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+http://173.208.212.130:8181/1080p/cctv10.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+http://173.208.212.130:8181/1080p/cctv11.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+http://173.208.212.130:8181/1080p/cctv12.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+http://173.208.212.130:8181/1080p/cctv13.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+http://173.208.212.130:8181/1080p/cctv14.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+http://173.208.212.130:8181/1080p/cctv15.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克
+http://173.208.212.130:8181/1080p/cctv16.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+http://173.208.212.130:8181/1080p/cctv17.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV-5+HD
+http://173.208.212.130:8181/1080p/cctv5p.m3u8
+#EXTINF:-1 group-title="韩国KR",CCTV1
+http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV2
+http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV3
+http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV4
+http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV5
+http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV6
+http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV8
+http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV9
+http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV11
+http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV12
+http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV13
+http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV14
+http://112.30.73.119:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV15
+http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV3
+http://112.30.73.119:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV12
+http://112.30.73.119:9901/tsfile/live/1414_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV13
+http://112.30.73.119:9901/tsfile/live/1416_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV15
+http://112.30.73.119:9901/tsfile/live/1418_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV9
+http://112.30.73.119:9901/tsfile/live/1419_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV11
+http://112.30.73.119:9901/tsfile/live/1420_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV17
+http://112.30.73.119:9901/tsfile/live/1421_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV5
+http://112.30.73.119:9901/tsfile/live/1422_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV6
+http://112.30.73.119:9901/tsfile/live/1423_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV8
+http://112.30.73.119:9901/tsfile/live/1424_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV1
+http://112.30.73.119:9901/tsfile/live/1425_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="韩国KR",CCTV-2财经
+https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-2财经
+https://live.264788.xyz/channel/cctv2?streamid=d0894b01592c0f48f99c44a148ca8447&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-3综艺
+https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-3综艺
+https://live.264788.xyz/channel/cctv3?streamid=1d12fd159be0157ca05e86bee9ce74e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+https://live.264788.xyz/channel/cctv4?streamid=9d2612a9fac7098d2105cf8bf4625d1d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4中文国际
+https://live.264788.xyz/channel/cctv4?streamid=58e05ee3e15a2d1956b7443ae4067dfa&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+https://live.264788.xyz/channel/cctv5?streamid=504fa453c7bb756531e1811917356ce7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+https://live.264788.xyz/channel/cctv5?streamid=aeee9fc440a5f4bc1bb9574b65213f29&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+https://live.264788.xyz/channel/cctv5?streamid=bfdc7fd4fdd7c31f07cacd34d3cb0a5a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5体育
+https://live.264788.xyz/channel/cctv5?streamid=75e09d8ebb5b5dac2dd7ed2dd2f0ecac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5+体育赛事
+https://live.264788.xyz/channel/cctv5p?streamid=b6e4f70849be6fef32dc1c569e8a5254&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5+体育赛事
+https://live.264788.xyz/channel/cctv5p?streamid=223e1dc8d7606f14f535ccfca40dd137&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5+体育赛事
+https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-5+体育赛事
+https://live.264788.xyz/channel/cctv5p?streamid=f8f1d72e30c98f67e9d9b7abe956d039&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=96b266d033a2053c5fbd0fea4afae12b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=c89a4225ad5c8ee02dc7ea15ac47cfb9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=6679e65e7347bf23d1db5691a8f93888&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=6c8f16bfd8cad4d6e8d218cb2dbcf19c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+https://live.264788.xyz/channel/cctv7?streamid=479fea30e7639a9aeb0d647c41d49027&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+https://live.264788.xyz/channel/cctv7?streamid=bfc46d4a96d2d9c0ab5d7e66527fbd0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+https://live.264788.xyz/channel/cctv7?streamid=98cd6dfda16281b12dd69dd808e10cf8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-7国防军事
+https://live.264788.xyz/channel/cctv7?streamid=3486ebf3d4e652ede40ade48d653f610&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+https://live.264788.xyz/channel/cctv8?streamid=edf72a10a74fdf3c8d3b62e5540c2cf8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+https://live.264788.xyz/channel/cctv8?streamid=40de643d4d7181842c8181a3a31bfade&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-8电视剧
+https://live.264788.xyz/channel/cctv8?streamid=6c3489b6be6b56162e89e7a5b9a39b61&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+https://live.264788.xyz/channel/cctv9?streamid=965471f22871b869185fa44895550cf6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+https://live.264788.xyz/channel/cctv9?streamid=9b73d31612fe525017b680bb3dd8071f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+https://live.264788.xyz/channel/cctv9?streamid=9fb9358174c897392a181a9405abdfdc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-9纪录
+https://live.264788.xyz/channel/cctv9?streamid=849c59eb8f64e0b008b7d63ed949bd9a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=61d2faba189c1fee2c26fb733648e7d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=802331ccd41b8d8283234e98b55fe720&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=5c17e973e6d2241c96beb2627f7dc3fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=e9830dca6d1b10ef91a221ea8a0d0535&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=3b93fbcc94fb84f897deb567d7a2a4ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-10科教
+https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+https://live.264788.xyz/channel/cctv11?streamid=61be47c4b483b6f38fc816d9d022a325&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+https://live.264788.xyz/channel/cctv11?streamid=2fce646d8dbb72c508744df2e722b855&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+https://live.264788.xyz/channel/cctv11?streamid=2d225001eb069683c2fc67d97be29689&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+https://live.264788.xyz/channel/cctv11?streamid=c69f5433fa130011553d458dc212c18b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-11戏曲
+https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+https://live.264788.xyz/channel/cctv12?streamid=ab6198438329e6431e97e89390793ea5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+https://live.264788.xyz/channel/cctv12?streamid=2f2d9ed82e6e7edae66f9af09f19cced&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+https://live.264788.xyz/channel/cctv12?streamid=577823de18178c8e78f5dc92bfa605c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-12社会与法
+https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+https://live.264788.xyz/channel/cctv13?streamid=9ea97cd43bafe3b9e0250240d221d0e2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+https://live.264788.xyz/channel/cctv13?streamid=ceb09a1a782b93dd7f13c95e7bc5d37b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+https://live.264788.xyz/channel/cctv13?streamid=ca0ccc1cc485217f8cd8388441629dc6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+https://live.264788.xyz/channel/cctv13?streamid=dbecf1389d46378ca3d9cd89bc2b6f25&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+https://live.264788.xyz/channel/cctv13?streamid=10271fee253d2d91a7fc49f708ec621e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-13新闻
+https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=cabc817805412b81748c942b2dcb39c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=d97345047af477cfec39d9d99a9e62f8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=dea6e23e9d7b5317f3605c247aaba891&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadca39fb444&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=f0870d5670f7b591427c91bcb34e55d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=8f369d689a4dd78055143e69e32ce6d8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+https://live.264788.xyz/channel/cctv15?streamid=6d7a6859e22aa51e7c09b29a9f1848d7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+https://live.264788.xyz/channel/cctv15?streamid=2271e48a39448bdf5ec06125102e8ad0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+https://live.264788.xyz/channel/cctv15?streamid=57de0bed5d834945e7cc8c1b36fc7cc1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+https://live.264788.xyz/channel/cctv15?streamid=b4f89c876ad7c8ac4af8056de8e12c84&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-15音乐
+https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克
+https://live.264788.xyz/channel/cctv16?streamid=d1ef1cb15a9781aecd1fa91d03ab41ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克
+https://live.264788.xyz/channel/cctv16?streamid=8eb5a3dee64a6f1b00b9eb5c7cd2573a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克
+https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克
+https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+https://live.264788.xyz/channel/cctv17?streamid=faa6e8dcf39e314823d4ca46e5f4a6c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+https://live.264788.xyz/channel/cctv17?streamid=6553344335ee5b54198e5392ff03305a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e2663266667c46ddf7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+https://live.264788.xyz/channel/cctv17?streamid=f8518c29f7faf4962aefc15ee3420fb0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-17农业农村
+https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=ddf7c8a2b9355fd0327077c06958bd0f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=dc08cf9ff7243e2392ad3c40024e31b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=e391578b03c29555c8769f7b6c4bf02f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=731a9cde3c22193d8a16a5ae7c5ffddd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克4K
+https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克4K
+https://live.264788.xyz/channel/cctv164k?streamid=b8abd3452eecb0e3d19ba6faf2e52d00&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-16奥林匹克4K
+https://live.264788.xyz/channel/cctv164k?streamid=e2fed648244b0ba2817187fcba2ca6cb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=ddf7c8a2b9355fd0327077c06958bd0f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=dc08cf9ff7243e2392ad3c40024e31b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=e391578b03c29555c8769f7b6c4bf02f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=731a9cde3c22193d8a16a5ae7c5ffddd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",五星体育
+https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",五星体育
+https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",五星体育
+https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="韩国KR",【体育】聊聊科比、乔丹传奇故事
+https://www.goodiptv.club/douyu/8434598
