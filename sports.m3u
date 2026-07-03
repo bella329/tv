@@ -1,7 +1,7 @@
 #EXTM3U
 CCTV,#genre#
-#EXTINF:-1 group-title="CCTV",CCTV1港澳版
-http://cdn6.163189.xyz/163189/cctv1
+#EXTINF:-1 group-title="CCTV",CCTV-1 综合
+http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-1
 http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1 group-title="CCTV",CCTV-01
@@ -47,17 +47,19 @@ http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://112.30.73.119:9901/tsfile/live/1425_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-1综合
-https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-2 财经
+http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-2
 http://go.bkpcp.top/mg/cctv2
 #EXTINF:-1 group-title="CCTV",CCTV-02
 http://m.061899.xyz/mg/cctv2
 #EXTINF:-1 group-title="CCTV",CCTV-2财经
-http://k.061899.xyz/k.php?id=cctv2
-#EXTINF:-1 group-title="CCTV",CCTV-2财经
 http://j.s.bkpcp.top/jj/cctv2
 #EXTINF:-1 group-title="CCTV",CCTV-02
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://mg.cttv.vip/631780532
 #EXTINF:-1 group-title="CCTV",CCTV2财经
 http://wfenf.x3322.net:7788/631780532
 #EXTINF:-1 group-title="CCTV",CCTV-2HD
@@ -83,23 +85,19 @@ http://173.208.212.130:8181/1080p/cctv2.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV2
 http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-2财经
-https://live.264788.xyz/channel/cctv2?streamid=c3edafc99edcc1ce06b8b70805554284&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-3 综艺
+http://111.221.137.234:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-3
 http://go.bkpcp.top/mg/cctv3
 #EXTINF:-1 group-title="CCTV",CCTV-03
 http://m.061899.xyz/mg/cctv3
 #EXTINF:-1 group-title="CCTV",CCTV-3综艺
-http://k.061899.xyz/k.php?id=cctv3
-#EXTINF:-1 group-title="CCTV",CCTV-3综艺
 http://j.s.bkpcp.top/jj/cctv3
 #EXTINF:-1 group-title="CCTV",CCTV-03
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
 #EXTINF:-1 group-title="CCTV",CCTV3综艺
-http://mg.cttv.vip/624878271
-#EXTINF:-1 group-title="CCTV",CCTV3综艺
 http://wfenf.x3322.net:7788/624878271
-#EXTINF:-1 group-title="CCTV",cctv3hd
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-3HD
 http://120.76.248.139/live/bfgd/4200000062.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-3HD
@@ -119,15 +117,13 @@ http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV3
 http://112.30.73.119:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-3综艺
-https://live.264788.xyz/channel/cctv3?streamid=2732ee7572f54fe1c1e6af80a49a6786&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-3综艺
 https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-4 中文国际
+http://111.221.137.234:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-4
 http://go.bkpcp.top/mg/cctv4
 #EXTINF:-1 group-title="CCTV",CCTV-04
 http://m.061899.xyz/mg/cctv4
-#EXTINF:-1 group-title="CCTV",CCTV-4中文国际
-http://k.061899.xyz/k.php?id=cctv4
 #EXTINF:-1 group-title="CCTV",CCTV-4美洲
 http://k.061899.xyz/k.php?id=cctv4m
 #EXTINF:-1 group-title="CCTV",CCTV-4欧洲
@@ -171,17 +167,21 @@ http://173.208.212.130:8181/1080p/cctv4.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV4
 http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-4中文国际
-https://live.264788.xyz/channel/cctv4?streamid=fd1184358330cda8bca2c2b1e36355f0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-4中文国际
 https://live.264788.xyz/channel/cctv4?streamid=9d2612a9fac7098d2105cf8bf4625d1d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-4中文国际
+https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV5
 https://live.666666.zip/stream/20233432.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5
+https://live.666666.zip/cctv/5.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5 体育
+http://111.221.137.234:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-5
 http://go.bkpcp.top/mg/cctv5
 #EXTINF:-1 group-title="CCTV",CCTV-05
 http://m.061899.xyz/mg/cctv5
-#EXTINF:-1 group-title="CCTV",CCTV-5体育
-http://k.061899.xyz/k.php?id=cctv5
 #EXTINF:-1 group-title="CCTV",CCTV-5体育
 http://j.s.bkpcp.top/jj/cctv5
 #EXTINF:-1 group-title="CCTV",CCTV-05
@@ -217,15 +217,15 @@ http://112.30.73.119:9901/tsfile/live/1422_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-5体育
 https://live.264788.xyz/channel/cctv5?streamid=504fa453c7bb756531e1811917356ce7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-5体育
-https://live.264788.xyz/channel/cctv5?streamid=aeee9fc440a5f4bc1bb9574b65213f29&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-5体育
-https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-5体育
 https://live.264788.xyz/channel/cctv5?streamid=75e09d8ebb5b5dac2dd7ed2dd2f0ecac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-5体育
 https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV5+
 https://live.666666.zip/stream/79635460.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+
+https://live.666666.zip/cctv/5p.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5+ 体育赛事
+http://111.221.137.234:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-5+
 http://go.bkpcp.top/mg/cctv5p
 #EXTINF:-1 group-title="CCTV",CCTV-5+
@@ -251,15 +251,15 @@ http://198.204.228.26/live/cctv5p.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5+
 http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5+体育赛事
-https://live.264788.xyz/channel/cctv5p?streamid=b6e4f70849be6fef32dc1c569e8a5254&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-5+体育赛事
 https://live.264788.xyz/channel/cctv5p?streamid=f8f1d72e30c98f67e9d9b7abe956d039&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-6 电影
+http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-6
 http://go.bkpcp.top/mg/cctv6
 #EXTINF:-1 group-title="CCTV",CCTV-06
 http://m.061899.xyz/mg/cctv6
-#EXTINF:-1 group-title="CCTV",CCTV-6电影
-http://k.061899.xyz/k.php?id=cctv6
 #EXTINF:-1 group-title="CCTV",CCTV-6电影
 http://j.s.bkpcp.top/jj/cctv6
 #EXTINF:-1 group-title="CCTV",CCTV-06
@@ -295,13 +295,19 @@ http://112.30.73.119:9901/tsfile/live/1423_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-6电影
 https://live.264788.xyz/channel/cctv6?streamid=96b266d033a2053c5fbd0fea4afae12b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-6电影
 https://live.264788.xyz/channel/cctv6?streamid=cdf2a45cf92cd843c41935b9ad03fdb1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-6电影
+https://live.264788.xyz/channel/cctv6?streamid=6c8f16bfd8cad4d6e8d218cb2dbcf19c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-7 国防军事
+http://111.221.137.234:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-7
 http://go.bkpcp.top/mg/cctv7
 #EXTINF:-1 group-title="CCTV",CCTV-07
 http://m.061899.xyz/mg/cctv7
-#EXTINF:-1 group-title="CCTV",CCTV-7国防军事
-http://k.061899.xyz/k.php?id=cctv7
 #EXTINF:-1 group-title="CCTV",CCTV-7国防军事
 http://j.s.bkpcp.top/jj/cctv7
 #EXTINF:-1 group-title="CCTV",CCTV-07
@@ -331,23 +337,17 @@ http://173.208.212.130:8181/720p/cctv7.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-7国防军事
 http://173.208.212.130:8181/1080p/cctv7.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-7国防军事
-https://live.264788.xyz/channel/cctv7?streamid=043ecb8ede7fbe890d88633af70d7cb3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-7国防军事
 https://live.264788.xyz/channel/cctv7?streamid=479fea30e7639a9aeb0d647c41d49027&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-7国防军事
 https://live.264788.xyz/channel/cctv7?streamid=bfc46d4a96d2d9c0ab5d7e66527fbd0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-7国防军事
-https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-7国防军事
-https://live.264788.xyz/channel/cctv7?streamid=98cd6dfda16281b12dd69dd808e10cf8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-7国防军事
-https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-8 电视剧
+http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-8
 http://go.bkpcp.top/mg/cctv8
 #EXTINF:-1 group-title="CCTV",CCTV-08
 http://m.061899.xyz/mg/cctv8
-#EXTINF:-1 group-title="CCTV",CCTV-8电视剧
-http://k.061899.xyz/k.php?id=cctv8
 #EXTINF:-1 group-title="CCTV",CCTV-8电视剧
 http://j.s.bkpcp.top/jj/cctv8
 #EXTINF:-1 group-title="CCTV",CCTV-08
@@ -381,13 +381,11 @@ http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV8
 http://112.30.73.119:9901/tsfile/live/1424_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-8电视剧
-https://live.264788.xyz/channel/cctv8?streamid=40de643d4d7181842c8181a3a31bfade&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-8电视剧
-https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv8?streamid=6c3489b6be6b56162e89e7a5b9a39b61&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-8电视剧
 https://live.264788.xyz/channel/cctv8?streamid=9b256b5d0d7d31d0aa395813a05245f7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-8电视剧
-https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-9 纪录
+http://111.221.137.234:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-9
 http://go.bkpcp.top/mg/cctv9
 #EXTINF:-1 group-title="CCTV",CCTV-09
@@ -437,15 +435,17 @@ https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&
 #EXTINF:-1 group-title="CCTV",CCTV-9纪录
 https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-9纪录
-https://live.264788.xyz/channel/cctv9?streamid=849c59eb8f64e0b008b7d63ed949bd9a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-9纪录
-https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv9?streamid=9fb9358174c897392a181a9405abdfdc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-10 科教
+http://111.221.137.234:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-10
 http://go.bkpcp.top/mg/cctv10
 #EXTINF:-1 group-title="CCTV",CCTV-10
 http://m.061899.xyz/mg/cctv10
 #EXTINF:-1 group-title="CCTV",CCTV-10科教
 http://k.061899.xyz/k.php?id=cctv10
+#EXTINF:-1 group-title="CCTV",CCTV-10科教
+http://j.s.bkpcp.top/jj/cctv10
 #EXTINF:-1 group-title="CCTV",CCTV-10
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 #EXTINF:-1 group-title="CCTV",CCTV10科教
@@ -478,16 +478,12 @@ https://live.264788.xyz/channel/cctv10?streamid=802331ccd41b8d8283234e98b55fe720
 https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-10科教
 https://live.264788.xyz/channel/cctv10?streamid=e9830dca6d1b10ef91a221ea8a0d0535&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-10科教
-https://live.264788.xyz/channel/cctv10?streamid=3b93fbcc94fb84f897deb567d7a2a4ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-10科教
-https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-11 戏曲
+http://111.221.137.234:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-11
 http://go.bkpcp.top/mg/cctv11
 #EXTINF:-1 group-title="CCTV",CCTV-11
 http://m.061899.xyz/mg/cctv11
-#EXTINF:-1 group-title="CCTV",CCTV-11戏曲
-http://k.061899.xyz/k.php?id=cctv11
 #EXTINF:-1 group-title="CCTV",CCTV-11戏曲
 http://j.s.bkpcp.top/jj/cctv11
 #EXTINF:-1 group-title="CCTV",CCTV-11
@@ -519,11 +515,11 @@ http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV11
 http://112.30.73.119:9901/tsfile/live/1420_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-11戏曲
-https://live.264788.xyz/channel/cctv11?streamid=61be47c4b483b6f38fc816d9d022a325&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-11戏曲
 https://live.264788.xyz/channel/cctv11?streamid=2fce646d8dbb72c508744df2e722b855&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-11戏曲
-https://live.264788.xyz/channel/cctv11?streamid=c69f5433fa130011553d458dc212c18b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-12 社会与法
+http://111.221.137.234:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-12
 http://go.bkpcp.top/mg/cctv12
 #EXTINF:-1 group-title="CCTV",CCTV-12
@@ -561,8 +557,6 @@ http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV12
 http://112.30.73.119:9901/tsfile/live/1414_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-12社会与法
-https://live.264788.xyz/channel/cctv12?streamid=ab6198438329e6431e97e89390793ea5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-12社会与法
 https://live.264788.xyz/channel/cctv12?streamid=2ffaa6964c764868df1ed3aa59a57a7d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-12社会与法
 https://live.264788.xyz/channel/cctv12?streamid=7274a33e11b479af1bb9e15efd258e4b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -574,8 +568,8 @@ https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d
 https://live.264788.xyz/channel/cctv12?streamid=2f2d9ed82e6e7edae66f9af09f19cced&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-12社会与法
 https://live.264788.xyz/channel/cctv12?streamid=577823de18178c8e78f5dc92bfa605c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-12社会与法
-https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-13 新闻
+http://111.221.137.234:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-13
 http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 group-title="CCTV",CCTV-13
@@ -617,13 +611,13 @@ https://live.264788.xyz/channel/cctv13?streamid=9ea97cd43bafe3b9e0250240d221d0e2
 #EXTINF:-1 group-title="CCTV",CCTV-13新闻
 https://live.264788.xyz/channel/cctv13?streamid=ceb09a1a782b93dd7f13c95e7bc5d37b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-13新闻
-https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv13?streamid=ca0ccc1cc485217f8cd8388441629dc6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-13新闻
+https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-13新闻
 https://live.264788.xyz/channel/cctv13?streamid=dbecf1389d46378ca3d9cd89bc2b6f25&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-13新闻
-https://live.264788.xyz/channel/cctv13?streamid=10271fee253d2d91a7fc49f708ec621e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-13新闻
-https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-14 少儿
+http://111.221.137.234:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-14
 http://go.bkpcp.top/mg/cctv14
 #EXTINF:-1 group-title="CCTV",CCTV-14
@@ -657,11 +651,9 @@ http://173.208.212.130:8181/1080p/cctv14.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV14
 http://112.30.73.119:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-14少儿
-https://live.264788.xyz/channel/cctv14?streamid=cabc817805412b81748c942b2dcb39c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-14少儿
-https://live.264788.xyz/channel/cctv14?streamid=d97345047af477cfec39d9d99a9e62f8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-14少儿
 https://live.264788.xyz/channel/cctv14?streamid=dea6e23e9d7b5317f3605c247aaba891&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-14少儿
+https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-14少儿
 https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadca39fb444&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-14少儿
@@ -670,10 +662,14 @@ https://live.264788.xyz/channel/cctv14?streamid=f0870d5670f7b591427c91bcb34e55d4
 https://live.264788.xyz/channel/cctv14?streamid=8f369d689a4dd78055143e69e32ce6d8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-14少儿
 https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-15 音乐
+http://111.221.137.234:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-15
 http://go.bkpcp.top/mg/cctv15
 #EXTINF:-1 group-title="CCTV",CCTV-15
 http://m.061899.xyz/mg/cctv15
+#EXTINF:-1 group-title="CCTV",CCTV-15音乐
+http://k.061899.xyz/k.php?id=cctv15
 #EXTINF:-1 group-title="CCTV",CCTV-15音乐
 http://j.s.bkpcp.top/jj/cctv15
 #EXTINF:-1 group-title="CCTV",CCTV-15
@@ -713,9 +709,9 @@ https://live.264788.xyz/channel/cctv15?streamid=2271e48a39448bdf5ec06125102e8ad0
 #EXTINF:-1 group-title="CCTV",CCTV-15音乐
 https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-15音乐
-https://live.264788.xyz/channel/cctv15?streamid=57de0bed5d834945e7cc8c1b36fc7cc1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-15音乐
-https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv15?streamid=b4f89c876ad7c8ac4af8056de8e12c84&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-16
 http://m.061899.xyz/mg/cctv16
 #EXTINF:-1 group-title="CCTV",CCTV-16奥运
@@ -749,11 +745,13 @@ https://live.264788.xyz/channel/cctv164k?streamid=aac7972bcf1975e8346c9af0508a7c
 #EXTINF:-1 group-title="CCTV",CCTV-16奥林匹克4K
 https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-16奥林匹克4K
-https://live.264788.xyz/channel/cctv164k?streamid=e2fed648244b0ba2817187fcba2ca6cb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/cctv164k?streamid=b8abd3452eecb0e3d19ba6faf2e52d00&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-17
 http://go.bkpcp.top/mg/cctv17
 #EXTINF:-1 group-title="CCTV",CCTV-17
 http://m.061899.xyz/mg/cctv17
+#EXTINF:-1 group-title="CCTV",CCTV-17农业农村
+http://k.061899.xyz/k.php?id=cctv17
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
 http://j.s.bkpcp.top/jj/cctv17
 #EXTINF:-1 group-title="CCTV",CCTV-17
@@ -785,15 +783,11 @@ http://112.30.73.119:9901/tsfile/live/1421_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
 https://live.264788.xyz/channel/cctv17?streamid=faa6e8dcf39e314823d4ca46e5f4a6c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
-https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-17农业农村
 https://live.264788.xyz/channel/cctv17?streamid=6553344335ee5b54198e5392ff03305a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
 https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
 https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="CCTV",CCTV-17农业农村
-https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e2663266667c46ddf7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
 https://live.264788.xyz/channel/cctv17?streamid=f8518c29f7faf4962aefc15ee3420fb0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
@@ -813,9 +807,13 @@ https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98
 #EXTINF:-1 group-title="CCTV",CCTV-4K超高清
 https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=e391578b03c29555c8769f7b6c4bf02f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-4K超高清
 https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-4K超高清
 https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=e391578b03c29555c8769f7b6c4bf02f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="CCTV",CCTV-8K超高清
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 group-title="CCTV",CCTV-8K超高清
@@ -826,6 +824,8 @@ http://192.151.150.154/live/cctv8k.m3u8
 http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-8K超高清
 http://173.208.212.130:8181/720p/cctv8k.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV远方的家
+http://cfss.cc/cdn/dy/44931143492.flv
 #EXTINF:-1 group-title="CCTV",cctv美洲
 http://m.061899.xyz/mg/cctv4m
 #EXTINF:-1 group-title="CCTV",cctv欧洲
@@ -981,19 +981,13 @@ http://173.208.212.130:8181/720p/gefwq.m3u8
 未分类,#genre#
 #EXTINF:-1 group-title="未分类",五星体育
 https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 group-title="未分类",广东体育
-http://cdn2.163189.xyz/163189/gdty
-#EXTINF:-1 group-title="未分类",澳门体育
-http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="未分类",纬来体育台
 https://smt.1678520.xyz/163189/wlty
 2026世界杯,#genre#
-#EXTINF:-1 group-title="2026世界杯",广东体育
-https://live.666666.zip/stream/90149826.m3u8
-#EXTINF:-1 group-title="2026世界杯",澳门体育
-https://live.666666.zip/stream/38143826.m3u8
 #EXTINF:-1 group-title="2026世界杯",ELTA体育1
 https://live.666666.zip/stream/16697898.m3u8
+#EXTINF:-1 group-title="2026世界杯",ELTA体育1
+https://live.666666.zip/elta/index.m3u8
 #EXTINF:-1 group-title="2026世界杯",ELTA体育2
 https://live.666666.zip/stream/28361755.m3u8
 #EXTINF:-1 group-title="2026世界杯",NOW体育1
@@ -1002,8 +996,8 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
 #EXTINF:-1 group-title="2026世界杯",NOW体育5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-#EXTINF:-1 group-title="2026世界杯",NOW体育7
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+#EXTINF:-1 group-title="2026世界杯",NOW体育4K1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 #EXTINF:-1 group-title="2026世界杯",NOW体育
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 #EXTINF:-1 group-title="2026世界杯",英国TNT体育1
@@ -1017,20 +1011,12 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
 #EXTINF:-1 group-title="2026世界杯",英国TNT体育4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
 #EXTINF:-1 group-title="2026世界杯",英国PREMIER SPORTS 1
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/303258.m3u8
-#EXTINF:-1 group-title="2026世界杯",英国PREMIER SPORTS 1
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
-#EXTINF:-1 group-title="2026世界杯",英国PREMIER SPORTS 2
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/303257.m3u8
 #EXTINF:-1 group-title="2026世界杯",英国PREMIER SPORTS 2
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
 #EXTINF:-1 group-title="2026世界杯",美国beIN体育
 http://23.237.104.106:8080/USA_BEIN/tracks-v1a1/mono.m3u8
 极速风云,#genre#
-#EXTINF:-1 group-title="极速风云",TntSports1
-http://iptv.4666888.xyz/iptv2A.php?id=3
-#EXTINF:-1 group-title="极速风云",JSPORTS1
-http://iptv.4666888.xyz/iptv2A.php?id=6
 #EXTINF:-1 group-title="极速风云",FOX PREMIUM HD
 http://108.181.20.255:27347/livehttpplay?channel_id=23054
 #EXTINF:-1 group-title="极速风云",FOX SPORTS 3 HD
@@ -1059,29 +1045,35 @@ http://108.181.20.255:27347/livehttpplay?channel_id=23549
 http://108.181.20.255:27347/livehttpplay?channel_id=23558
 #EXTINF:-1 group-title="极速风云",FOX SPORTS CHILE HD
 http://108.181.20.255:27347/livehttpplay?channel_id=23559
+#EXTINF:-1 group-title="极速风云",WIN SPORTS PREMIUM  COL
+http://108.181.23.41:80/livehttpplay?channel_id=23542
+#EXTINF:-1 group-title="极速风云",WinSports HD
+http://108.181.23.41:80/livehttpplay?channel_id=23548
 韩国KR,#genre#
 #EXTINF:-1 group-title="韩国KR",广东体育2
 http://m.061899.xyz/mg/gdty
 #EXTINF:-1 group-title="韩国KR",广东体育
 http://go.bkpcp.top/mg/gdty
 #EXTINF:-1 group-title="韩国KR",广东体育高清
-http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
-#EXTINF:-1 group-title="韩国KR",广东体育高清
 http://iptv.xxika.net:8188/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="韩国KR",广东体育高清
 http://lsa.familyds.com:8188/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="韩国KR",广东体育高清
-http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
-#EXTINF:-1 group-title="韩国KR",广东体育高清
 http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://plex.cyruslee.top:8888/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育高清
+http://jellyfin.cyruslee.top:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="韩国KR",广东体育高清
 http://www.3344.uk:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="韩国KR",广东体育高清
-http://vp.maomizi.cc:9530/udp/239.77.0.112:5146
+http://ikuai.cyruslee.top:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="韩国KR",广东体育高清
-http://www.maomizi.cn:9527/udp/239.77.0.112:5146
+http://bot22.top:19999/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="韩国KR",广东体育高清
-http://61.145.188.90:50055/udp/239.77.0.112:5146
+http://yanshifen.top:8889/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="韩国KR",广东体育
+http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="韩国KR",广东体育
 http://m.061899.xyz/mg/gdty
 #EXTINF:-1 group-title="韩国KR",劲爆体育
@@ -1090,25 +1082,19 @@ http://m.061899.xyz/mg/jbty
 http://m.061899.xyz/mg/mgty
 #EXTINF:-1 group-title="韩国KR",北京体育
 http://m.061899.xyz/mg/bjty
-#EXTINF:-1 group-title="韩国KR",体育休闲频道
-http://mg.cttv.vip/626064707
 #EXTINF:-1 group-title="韩国KR",陕西体育休闲频道
 http://mg.cttv.vip/956909356
 咪咕央视3,#genre#
 #EXTINF:-1 group-title="咪咕央视3",体育休闲频道
 http://wfenf.x3322.net:7788/626064707
+#EXTINF:-1 group-title="咪咕央视3",陕西体育休闲频道
+http://wfenf.x3322.net:7788/956909356
 #EXTINF:-1 group-title="咪咕央视3",广东体育
 http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 #EXTINF:-1 group-title="咪咕央视3",五星体育HD
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 group-title="咪咕央视3",天津体育
 http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-#EXTINF:-1 group-title="咪咕央视3",广东体育
-http://107.150.60.122/live/gdty.m3u8
-#EXTINF:-1 group-title="咪咕央视3",新疆汉语体育健康
-http://107.150.60.122/live/xjtv7.m3u8
-#EXTINF:-1 group-title="咪咕央视3",广东体育
-http://192.151.150.154/live/gdty.m3u8
 #EXTINF:-1 group-title="咪咕央视3",广东体育
 http://198.204.228.26/live/gdty.m3u8
 #EXTINF:-1 group-title="咪咕央视3",精品体育
