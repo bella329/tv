@@ -18,6 +18,14 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 http://173.208.212.130:8181/720p/cctv1.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-1综合
 http://173.208.212.130:8181/1080p/cctv1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-1综合
+https://live.264788.xyz/channel/cctv1?streamid=92aee428179a0ecc7495490888c0cba9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://222.134.241.132:9909/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://116.117.122.106:18889/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://222.134.241.132:9955/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-2HD
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="CCTV",CCTV2
@@ -40,6 +48,10 @@ http://173.208.212.130:8181/1080p/cctv2.m3u8
 http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV2財經
 http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://222.134.241.132:9909/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="CCTV",cctv3hd
 http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-3HD
@@ -56,6 +68,8 @@ http://173.208.212.130:8181/720p/cctv3.m3u8
 http://173.208.212.130:8181/1080p/cctv3.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV3綜藝
 http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://222.134.241.132:9955/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV3
 http://218.13.172.98:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-4HD
@@ -80,6 +94,8 @@ http://173.208.212.130:8181/1080p/cctv4.m3u8
 http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV4中文國際
 http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://222.134.241.132:9955/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV-5HD
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="CCTV",CCTV5
@@ -179,8 +195,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-9HD
 http://107.150.60.122/live/cctv9hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-9HD
-http://192.151.150.154/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-9HD
 http://198.204.228.26/live/cctv9hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-9
 http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
@@ -242,6 +256,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
 http://173.208.212.130:8181/720p/cctv12.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-12社会与法
 http://173.208.212.130:8181/1080p/cctv12.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV12社會與法
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-13HD
@@ -271,6 +287,8 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-14HD
 http://107.150.60.122/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-14HD
+http://192.151.150.154/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-14HD
 http://198.204.228.26/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-14
 http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
@@ -278,8 +296,6 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
 http://173.208.212.130:8181/720p/cctv14.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-14少儿
 http://173.208.212.130:8181/1080p/cctv14.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV14
-http://112.30.73.119:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV14少兒
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-15HD
@@ -298,6 +314,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 http://173.208.212.130:8181/720p/cctv15.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-15音乐
 http://173.208.212.130:8181/1080p/cctv15.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="CCTV",CCTV15音樂
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-16HD
@@ -398,6 +416,8 @@ http://107.150.60.122/live/ysjp.m3u8
 http://107.150.60.122/live/wsjk.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-电视指南
 http://192.151.150.154/live/dszn.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-第一剧场
+http://192.151.150.154/live/dyjc.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云剧场
 http://192.151.150.154/live/fyjc.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云音乐
@@ -494,11 +514,17 @@ http://173.208.212.130:8181/720p/fyyy.m3u8
 http://173.208.212.130:8181/720p/ystq.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云足球
 http://173.208.212.130:8181/720p/fyzq.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-高尔夫网球
+http://173.208.212.130:8181/720p/gefwq.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-央视文化精品
 http://107.150.60.122/live/ysjp.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-卫生健康
 http://107.150.60.122/live/wsjk.m3u8
 2026世界杯,#genre#
+#EXTINF:-1 group-title="2026世界杯",英国PREMIER SPORTS 1
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/303258.m3u8
+#EXTINF:-1 group-title="2026世界杯",英国PREMIER SPORTS 2
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/303257.m3u8
 #EXTINF:-1 group-title="2026世界杯",美国beIN体育
 http://23.237.104.106:8080/USA_BEIN/tracks-v1a1/mono.m3u8
 咪咕央视3,#genre#
@@ -513,5 +539,10 @@ http://192.151.150.154/live/gdty.m3u8
 #EXTINF:-1 group-title="咪咕央视3",广东体育
 http://198.204.228.26/live/gdty.m3u8
 广州电信RTP,#genre#
+#EXTINF:-1 group-title="广州电信RTP",【体育】聊聊科比、乔丹传奇故事
+https://www.goodiptv.club/douyu/8434598
 #EXTINF:-1 group-title="广州电信RTP",我的体育老师
 https://www.goodiptv.club/yy/1382745169
+体育频道,#genre#
+#EXTINF:-1 group-title="体育频道",风云足球
+http://hmfs.f3322.net:3388/hls/9/index.m3u8
