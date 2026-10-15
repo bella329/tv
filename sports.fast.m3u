@@ -20,8 +20,6 @@ http://74.91.26.218:82/live/cctv1hd.m3u8
 http://192.151.150.154/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV1綜合
 http://173.208.234.146/live/cctv1.m3u8
-#EXTINF:-1 group-title="CCTV",cctv2hd
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-2HD
 http://107.150.60.122/live/cctv2hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-2HD
@@ -52,6 +50,8 @@ http://107.150.60.122/live/cctv3hd.m3u8
 http://192.151.150.154/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-3HD
 http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-3
+http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-3综艺
 http://173.208.212.130:8181/720p/cctv3.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-3综艺
@@ -66,8 +66,6 @@ http://173.208.234.146/live/cctv3.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="CCTV",CCTV4
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="CCTV",cctv4hd
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-4HD
 http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-4HD
@@ -97,11 +95,17 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-5HD
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5HD
+http://192.151.150.154/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5HD
 http://198.204.228.26/live/cctv5hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5
 http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5体育
+http://173.208.212.130:8181/720p/cctv5.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5体育
 http://173.208.212.130:8181/1080p/cctv5.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5HD
+http://192.151.150.154/live/cctv5hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5體育
 http://173.208.234.146/live/cctv5.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5體育
@@ -111,6 +115,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 group-title="CCTV",CCTV-5+HD
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5+HD
+http://192.151.150.154/live/cctv5p.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5+HD
 http://198.204.228.26/live/cctv5p.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5+
 http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
@@ -118,6 +124,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 http://173.208.212.130:8181/720p/cctv5p.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-5+HD
 http://173.208.212.130:8181/1080p/cctv5p.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-5+HD
+http://192.151.150.154/live/cctv5p.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5+體育賽事
 http://173.208.234.146/live/cctv5p.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV5+體育賽事
@@ -158,6 +166,8 @@ http://198.204.228.26/live/cctv7hd.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-7国防军事
 http://173.208.212.130:8181/720p/cctv7.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-7国防军事
+http://173.208.212.130:8181/1080p/cctv7.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV7國防軍事
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-7HD
@@ -194,8 +204,12 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 http://107.150.60.122/live/cctv9hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-9HD
 http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-9HD
+http://198.204.228.26/live/cctv9hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-9
 http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-9纪录
+http://173.208.212.130:8181/720p/cctv9.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-9纪录
 http://173.208.212.130:8181/1080p/cctv9.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV9紀錄
@@ -240,6 +254,8 @@ http://198.204.228.26/live/cctv11hd.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-11戏曲
 http://173.208.212.130:8181/720p/cctv11.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-11戏曲
+http://173.208.212.130:8181/1080p/cctv11.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV11戲曲
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-11HD
@@ -283,6 +299,8 @@ http://198.204.228.26/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-13
 http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-13新闻
+http://173.208.212.130:8181/720p/cctv13.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-13新闻
 http://173.208.212.130:8181/1080p/cctv13.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV13新聞
 http://74.91.26.218:82/live/cctv13hd.m3u8
@@ -322,6 +340,8 @@ http://198.204.228.26/live/cctv15hd.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-15音乐
 http://173.208.212.130:8181/720p/cctv15.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-15音乐
+http://173.208.212.130:8181/1080p/cctv15.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV15音樂
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-15HD
@@ -335,6 +355,8 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="CCTV",CCTV-16HD
 http://107.150.60.122/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-16HD
+http://192.151.150.154/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-16HD
 http://198.204.228.26/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-16
 http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
@@ -342,6 +364,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 http://173.208.212.130:8181/720p/cctv16.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-16奥林匹克
 http://173.208.212.130:8181/1080p/cctv16.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-16HD
+http://192.151.150.154/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV16奧利匹克
 http://173.208.234.146/live/cctv16.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV16奧林匹克
@@ -364,6 +388,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 http://173.208.212.130:8181/720p/cctv17.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-17农业农村
 http://173.208.212.130:8181/1080p/cctv17.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17農業農村
+http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-17HD
 http://192.151.150.154/live/cctv17hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV17農業農村
@@ -444,6 +470,12 @@ http://192.151.150.154/live/fyjc.m3u8
 http://192.151.150.154/live/fyyy.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云足球
 http://192.151.150.154/live/fyzq.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-高尔夫网球
+http://192.151.150.154/live/gefwq.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-兵器科技
+http://192.151.150.154/live/gfjs.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-女性时尚
+http://192.151.150.154/live/nxss.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-世界地理
 http://192.151.150.154/live/sjdl.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-怀旧剧场
@@ -468,10 +500,16 @@ http://198.204.228.26/live/fyzq.m3u8
 http://198.204.228.26/live/gefwq.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-兵器科技
 http://198.204.228.26/live/gfjs.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-女性时尚
+http://198.204.228.26/live/nxss.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-世界地理
 http://198.204.228.26/live/sjdl.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-怀旧剧场
+http://198.204.228.26/live/hjjc.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-央视台球
 http://198.204.228.26/live/ystq.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-央视文化精品
+http://198.204.228.26/live/ysjp.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-卫生健康
 http://198.204.228.26/live/wsjk.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-电视指南
@@ -480,6 +518,8 @@ http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云剧场
 http://bztv.tvbus.cc:8081/cdnlive/fyjc.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-风云音乐
+http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云足球
 http://bztv.tvbus.cc:8081/cdnlive/fyzq.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-高尔夫网球
@@ -516,12 +556,16 @@ http://173.208.212.130:8181/720p/wsjk.m3u8
 http://173.208.212.130:8181/720p/ysjp.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云音乐
 http://173.208.212.130:8181/720p/fyyy.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-央视台球
+http://173.208.212.130:8181/720p/ystq.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-风云足球
 http://173.208.212.130:8181/720p/fyzq.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-高尔夫网球
 http://173.208.212.130:8181/720p/gefwq.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-电视指南
 http://192.151.150.154/live/dszn.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-高尔夫网球
+http://192.151.150.154/live/ge购物.m3u8
 咪咕央视2,#genre#
 #EXTINF:-1 group-title="咪咕央视2",广东体育
 http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
@@ -530,18 +574,24 @@ http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 group-title="咪咕央视2",天津体育
 http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 #EXTINF:-1 group-title="咪咕央视2",广东体育
-http://107.150.60.122/live/gdty.m3u8
-#EXTINF:-1 group-title="咪咕央视2",广东体育
 http://192.151.150.154/live/gdty.m3u8
+#EXTINF:-1 group-title="咪咕央视2",新疆汉语体育健康
+http://192.151.150.154/live/xjtv7.m3u8
 #EXTINF:-1 group-title="咪咕央视2",广东体育
 http://198.204.228.26/live/gdty.m3u8
 天翼有线,#genre#
+#EXTINF:-1 group-title="天翼有线",【体育】聊聊科比、乔丹传奇故事
+http://footyun.top:35455/douyu/8434598
 #EXTINF:-1 group-title="天翼有线",我的体育老师
 http://footyun.top:35455/yy/1382745169
 📺央卫高清1,#genre#
+#EXTINF:-1 group-title="📺央卫高清1",五星体育HD
+http://192.151.150.154/live/wxtyhd.m3u8
 #EXTINF:-1 group-title="📺央卫高清1",天津体育
 http://192.151.150.154/live/tjtv5.m3u8
 港台1,#genre#
+#EXTINF:-1 group-title="港台1",美国NBC体育
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="港台1",🇺🇸美国Fox weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 🇨🇳港台最新,#genre#
